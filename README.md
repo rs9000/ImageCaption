@@ -14,7 +14,7 @@ https://www.python.org/
 
 ## Configuration
 1) Run "server.py" in your windows/linux enviroment<br>
-2) Install the apk file in your Android device
+2) Install the apk file in your Android device <br>
 2) Set Ip address and port in App <br>
 3) Done!
 
