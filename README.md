@@ -1,7 +1,7 @@
 # ImageCaption
 Captioning photo on Android devices
 
-## Require:
+## Require
 
 ### Neuraltalk2 by Karpathy
 https://github.com/karpathy/neuraltalk2
@@ -11,6 +11,11 @@ https://nodejs.org/en/
 
 ### Python
 https://www.python.org/
+
+## Configuration
+1) Run "server.py" <br>
+2) Set Ip address and port in App <br>
+3) Done!
 
 ## Screen App
 
